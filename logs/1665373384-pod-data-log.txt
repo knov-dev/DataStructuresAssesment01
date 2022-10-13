@@ -1,0 +1,354 @@
+************************[Cargo 1]*************************
+10-oct-2022 4:43:04 : Cargos read successfully from file
+[
+Cargo[id: F11; content=Rice; weight=55], 
+Cargo[id: T51; content=Scanner; weight=25], 
+Cargo[id: F34; content=Pasta; weight=79], 
+Cargo[id: T15; content=Circuit Board; weight=65], 
+Cargo[id: P22; content=Books; weight=18], 
+Cargo[id: P31; content=DVD; weight=90], 
+Cargo[id: T56; content=Lights; weight=20], 
+Cargo[id: P14; content=Shoes; weight=80], 
+Cargo[id: F16; content=Water; weight=80], 
+Cargo[id: P68; content=Hygiene; weight=85], 
+Cargo[id: T77; content=Tools; weight=30], 
+Cargo[id: F35; content=Peas; weight=40], 
+Cargo[id: P12; content=Hygiene; weight=95], 
+Cargo[id: T25; content=Laser; weight=185], 
+Cargo[id: F41; content=Protein; weight=92], 
+Cargo[id: F91; content=Meat; weight=90], 
+Cargo[id: T22; content=Monitor; weight=45], 
+Cargo[id: F39; content=Porridge; weight=64]]
+
+10-oct-2022 4:43:04 : Filling pods with cargos contents
+10-oct-2022 4:43:04 : Pods loaded successfully
+
+Pod 1 Content:
+[
+Cargo[id: F11; content=Rice; weight=55], 
+Cargo[id: T51; content=Scanner; weight=25], 
+Cargo[id: F34; content=Pasta; weight=79], 
+Cargo[id: T15; content=Circuit Board; weight=65], 
+Cargo[id: P22; content=Books; weight=18], 
+Cargo[id: P31; content=DVD; weight=90], 
+Cargo[id: T56; content=Lights; weight=20], 
+Cargo[id: P14; content=Shoes; weight=80], 
+Cargo[id: F16; content=Water; weight=80]]
+
+Pod 2 Content:
+[
+Cargo[id: P68; content=Hygiene; weight=85], 
+Cargo[id: T77; content=Tools; weight=30], 
+Cargo[id: F35; content=Peas; weight=40], 
+Cargo[id: P12; content=Hygiene; weight=95], 
+Cargo[id: T25; content=Laser; weight=185], 
+Cargo[id: F41; content=Protein; weight=92], 
+Cargo[id: F91; content=Meat; weight=90], 
+Cargo[id: T22; content=Monitor; weight=45], 
+Cargo[id: F39; content=Porridge; weight=64]]
+
+
+10-oct-2022 4:43:04 : Sending Pod content into processing corridor.
+10-oct-2022 4:43:04 : Processing corridor filled successfully.
+Corridor content:
+[
+Cargo[id: F16; content=Water; weight=80], 
+Cargo[id: P14; content=Shoes; weight=80], 
+Cargo[id: T56; content=Lights; weight=20], 
+Cargo[id: P31; content=DVD; weight=90], 
+Cargo[id: P22; content=Books; weight=18], 
+Cargo[id: T15; content=Circuit Board; weight=65], 
+Cargo[id: F34; content=Pasta; weight=79], 
+Cargo[id: T51; content=Scanner; weight=25], 
+Cargo[id: F11; content=Rice; weight=55], 
+Cargo[id: F39; content=Porridge; weight=64], 
+Cargo[id: T22; content=Monitor; weight=45], 
+Cargo[id: F91; content=Meat; weight=90], 
+Cargo[id: F41; content=Protein; weight=92], 
+Cargo[id: T25; content=Laser; weight=185], 
+Cargo[id: P12; content=Hygiene; weight=95], 
+Cargo[id: F35; content=Peas; weight=40], 
+Cargo[id: T77; content=Tools; weight=30], 
+Cargo[id: P68; content=Hygiene; weight=85]]
+
+10-oct-2022 4:43:04 : Sending items into the bays
+10-oct-2022 4:43:04 : Bays loaded successfuly
+
+Food Bay Content:
+[
+Cargo[id: F16; content=Water; weight=80], 
+Cargo[id: F34; content=Pasta; weight=79], 
+Cargo[id: F11; content=Rice; weight=55], 
+Cargo[id: F39; content=Porridge; weight=64], 
+Cargo[id: F91; content=Meat; weight=90], 
+Cargo[id: F41; content=Protein; weight=92], 
+Cargo[id: F35; content=Peas; weight=40]]
+
+Technical Bay Content:
+[
+Cargo[id: T56; content=Lights; weight=20], 
+Cargo[id: T15; content=Circuit Board; weight=65], 
+Cargo[id: T51; content=Scanner; weight=25], 
+Cargo[id: T22; content=Monitor; weight=45], 
+Cargo[id: T25; content=Laser; weight=185], 
+Cargo[id: T77; content=Tools; weight=30]]
+
+Personal Bay Content:
+[
+Cargo[id: P14; content=Shoes; weight=80], 
+Cargo[id: P31; content=DVD; weight=90], 
+Cargo[id: P22; content=Books; weight=18], 
+Cargo[id: P12; content=Hygiene; weight=95], 
+Cargo[id: P68; content=Hygiene; weight=85]]
+
+Discard/Duplicated Bay has no content
+
+************************[Cargo 2]*************************
+10-oct-2022 4:43:04 : Cargos read successfully from file
+[
+Cargo[id: F11; content=Rice; weight=55], 
+Cargo[id: F51; content=Meat; weight=75], 
+Cargo[id: F34; content=Pasta; weight=79], 
+Cargo[id: F15; content=Fruit; weight=60], 
+Cargo[id: F22; content=Spice; weight=18], 
+Cargo[id: F31; content=Beans; weight=90], 
+Cargo[id: F56; content=Vegetables; weight=85], 
+Cargo[id: F39; content=Porridge; weight=64], 
+Cargo[id: F16; content=Water; weight=80], 
+Cargo[id: F35; content=Peas; weight=40], 
+Cargo[id: F41; content=Protein; weight=92], 
+Cargo[id: F91; content=Meat; weight=90]]
+
+10-oct-2022 4:43:04 : Filling pods with cargos contents
+10-oct-2022 4:43:04 : Pods loaded successfully
+
+Pod 1 Content:
+[
+Cargo[id: F11; content=Rice; weight=55], 
+Cargo[id: F51; content=Meat; weight=75], 
+Cargo[id: F34; content=Pasta; weight=79], 
+Cargo[id: F15; content=Fruit; weight=60], 
+Cargo[id: F22; content=Spice; weight=18], 
+Cargo[id: F31; content=Beans; weight=90], 
+Cargo[id: F56; content=Vegetables; weight=85], 
+Cargo[id: F39; content=Porridge; weight=64], 
+Cargo[id: F16; content=Water; weight=80]]
+
+Pod 2 Content:
+[
+Cargo[id: F35; content=Peas; weight=40], 
+Cargo[id: F41; content=Protein; weight=92], 
+Cargo[id: F91; content=Meat; weight=90]]
+
+
+10-oct-2022 4:43:04 : Sending Pod content into processing corridor.
+10-oct-2022 4:43:04 : Processing corridor filled successfully.
+Corridor content:
+[
+Cargo[id: F16; content=Water; weight=80], 
+Cargo[id: F39; content=Porridge; weight=64], 
+Cargo[id: F56; content=Vegetables; weight=85], 
+Cargo[id: F31; content=Beans; weight=90], 
+Cargo[id: F22; content=Spice; weight=18], 
+Cargo[id: F15; content=Fruit; weight=60], 
+Cargo[id: F34; content=Pasta; weight=79], 
+Cargo[id: F51; content=Meat; weight=75], 
+Cargo[id: F11; content=Rice; weight=55], 
+Cargo[id: F91; content=Meat; weight=90], 
+Cargo[id: F41; content=Protein; weight=92], 
+Cargo[id: F35; content=Peas; weight=40]]
+
+10-oct-2022 4:43:04 : Sending items into the bays
+10-oct-2022 4:43:04 : Bays loaded successfuly
+
+Food Bay Content:
+[
+Cargo[id: F16; content=Water; weight=80], 
+Cargo[id: F34; content=Pasta; weight=79], 
+Cargo[id: F11; content=Rice; weight=55], 
+Cargo[id: F39; content=Porridge; weight=64], 
+Cargo[id: F91; content=Meat; weight=90], 
+Cargo[id: F41; content=Protein; weight=92], 
+Cargo[id: F35; content=Peas; weight=40], 
+Cargo[id: F16; content=Water; weight=80], 
+Cargo[id: F39; content=Porridge; weight=64], 
+Cargo[id: F56; content=Vegetables; weight=85], 
+Cargo[id: F31; content=Beans; weight=90], 
+Cargo[id: F22; content=Spice; weight=18], 
+Cargo[id: F15; content=Fruit; weight=60], 
+Cargo[id: F34; content=Pasta; weight=79], 
+Cargo[id: F51; content=Meat; weight=75], 
+Cargo[id: F11; content=Rice; weight=55], 
+Cargo[id: F91; content=Meat; weight=90], 
+Cargo[id: F41; content=Protein; weight=92], 
+Cargo[id: F35; content=Peas; weight=40]]
+
+Technical Bay Content:
+[
+Cargo[id: T56; content=Lights; weight=20], 
+Cargo[id: T15; content=Circuit Board; weight=65], 
+Cargo[id: T51; content=Scanner; weight=25], 
+Cargo[id: T22; content=Monitor; weight=45], 
+Cargo[id: T25; content=Laser; weight=185], 
+Cargo[id: T77; content=Tools; weight=30]]
+
+Personal Bay Content:
+[
+Cargo[id: P14; content=Shoes; weight=80], 
+Cargo[id: P31; content=DVD; weight=90], 
+Cargo[id: P22; content=Books; weight=18], 
+Cargo[id: P12; content=Hygiene; weight=95], 
+Cargo[id: P68; content=Hygiene; weight=85]]
+
+Discard/Duplicated Bay has no content
+
+************************[Cargo 3]*************************
+10-oct-2022 4:43:04 : Cargos read successfully from file
+[
+Cargo[id: P11; content=Book; weight=155], 
+Cargo[id: P51; content=Games; weight=175], 
+Cargo[id: P34; content=Clothes; weight=179], 
+Cargo[id: P15; content=Book; weight=160], 
+Cargo[id: P22; content=Book; weight=118], 
+Cargo[id: P31; content=Clothes; weight=290], 
+Cargo[id: P56; content=Games; weight=185], 
+Cargo[id: P39; content=Shoes; weight=164], 
+Cargo[id: P16; content=Gloves; weight=480]]
+
+10-oct-2022 4:43:04 : Filling pods with cargos contents
+10-oct-2022 4:43:04 : One or more cargo weight more than 1600kg, the operation can't continue. Please revise and reload the cargos again.
+
+************************[Cargo 4]*************************
+10-oct-2022 4:43:04 : Cargos read successfully from file
+[
+Cargo[id: T17; content=Computer; weight=155], 
+Cargo[id: T87; content=Tools; weight=175], 
+Cargo[id: T84; content=Circuit Board; weight=179], 
+Cargo[id: T15; content=Tape; weight=160], 
+Cargo[id: T25; content=Glue; weight=134], 
+Cargo[id: T37; content=Bolts; weight=290], 
+Cargo[id: T86; content=Lights; weight=185], 
+Cargo[id: T39; content=Speakers; weight=164], 
+Cargo[id: T97; content=Headphones; weight=480]]
+
+10-oct-2022 4:43:04 : Filling pods with cargos contents
+10-oct-2022 4:43:04 : One or more cargo weight more than 1600kg, the operation can't continue. Please revise and reload the cargos again.
+
+************************[Cargo 5]*************************
+The file Poddata5.txt is unreadable. Please make sure the file is formatted according to policies.
+
+************************[Cargo 6]*************************
+The file Poddata6.txt is unreadable. Please make sure the file is formatted according to policies.
+
+************************[Cargo 7]*************************
+10-oct-2022 4:43:04 : Cargos read successfully from file
+[
+Cargo[id: A11; content=Rice; weight=55], 
+Cargo[id: A51; content=Meat; weight=75], 
+Cargo[id: A34; content=Pasta; weight=79], 
+Cargo[id: A15; content=Fruit; weight=60], 
+Cargo[id: A22; content=Spice; weight=18], 
+Cargo[id: A31; content=Beans; weight=90], 
+Cargo[id: A56; content=Vegetables; weight=85], 
+Cargo[id: A39; content=Porridge; weight=64], 
+Cargo[id: A16; content=Water; weight=80], 
+Cargo[id: A35; content=Peas; weight=40], 
+Cargo[id: A41; content=Protein; weight=92], 
+Cargo[id: A91; content=Meat; weight=90]]
+
+10-oct-2022 4:43:04 : Filling pods with cargos contents
+10-oct-2022 4:43:04 : Pods loaded successfully
+
+Pod 1 Content:
+[
+Cargo[id: A11; content=Rice; weight=55], 
+Cargo[id: A51; content=Meat; weight=75], 
+Cargo[id: A34; content=Pasta; weight=79], 
+Cargo[id: A15; content=Fruit; weight=60], 
+Cargo[id: A22; content=Spice; weight=18], 
+Cargo[id: A31; content=Beans; weight=90], 
+Cargo[id: A56; content=Vegetables; weight=85], 
+Cargo[id: A39; content=Porridge; weight=64], 
+Cargo[id: A16; content=Water; weight=80]]
+
+Pod 2 Content:
+[
+Cargo[id: A35; content=Peas; weight=40], 
+Cargo[id: A41; content=Protein; weight=92], 
+Cargo[id: A91; content=Meat; weight=90]]
+
+
+10-oct-2022 4:43:04 : Sending Pod content into processing corridor.
+10-oct-2022 4:43:04 : Processing corridor filled successfully.
+Corridor content:
+[
+Cargo[id: A16; content=Water; weight=80], 
+Cargo[id: A39; content=Porridge; weight=64], 
+Cargo[id: A56; content=Vegetables; weight=85], 
+Cargo[id: A31; content=Beans; weight=90], 
+Cargo[id: A22; content=Spice; weight=18], 
+Cargo[id: A15; content=Fruit; weight=60], 
+Cargo[id: A34; content=Pasta; weight=79], 
+Cargo[id: A51; content=Meat; weight=75], 
+Cargo[id: A11; content=Rice; weight=55], 
+Cargo[id: A91; content=Meat; weight=90], 
+Cargo[id: A41; content=Protein; weight=92], 
+Cargo[id: A35; content=Peas; weight=40]]
+
+10-oct-2022 4:43:04 : Sending items into the bays
+10-oct-2022 4:43:04 : Bays loaded successfuly
+
+Food Bay Content:
+[
+Cargo[id: F16; content=Water; weight=80], 
+Cargo[id: F34; content=Pasta; weight=79], 
+Cargo[id: F11; content=Rice; weight=55], 
+Cargo[id: F39; content=Porridge; weight=64], 
+Cargo[id: F91; content=Meat; weight=90], 
+Cargo[id: F41; content=Protein; weight=92], 
+Cargo[id: F35; content=Peas; weight=40], 
+Cargo[id: F16; content=Water; weight=80], 
+Cargo[id: F39; content=Porridge; weight=64], 
+Cargo[id: F56; content=Vegetables; weight=85], 
+Cargo[id: F31; content=Beans; weight=90], 
+Cargo[id: F22; content=Spice; weight=18], 
+Cargo[id: F15; content=Fruit; weight=60], 
+Cargo[id: F34; content=Pasta; weight=79], 
+Cargo[id: F51; content=Meat; weight=75], 
+Cargo[id: F11; content=Rice; weight=55], 
+Cargo[id: F91; content=Meat; weight=90], 
+Cargo[id: F41; content=Protein; weight=92], 
+Cargo[id: F35; content=Peas; weight=40]]
+
+Technical Bay Content:
+[
+Cargo[id: T56; content=Lights; weight=20], 
+Cargo[id: T15; content=Circuit Board; weight=65], 
+Cargo[id: T51; content=Scanner; weight=25], 
+Cargo[id: T22; content=Monitor; weight=45], 
+Cargo[id: T25; content=Laser; weight=185], 
+Cargo[id: T77; content=Tools; weight=30]]
+
+Personal Bay Content:
+[
+Cargo[id: P14; content=Shoes; weight=80], 
+Cargo[id: P31; content=DVD; weight=90], 
+Cargo[id: P22; content=Books; weight=18], 
+Cargo[id: P12; content=Hygiene; weight=95], 
+Cargo[id: P68; content=Hygiene; weight=85]]
+
+Discard/Duplicated Bay Content:
+[
+Cargo[id: A16; content=Water; weight=80], 
+Cargo[id: A39; content=Porridge; weight=64], 
+Cargo[id: A56; content=Vegetables; weight=85], 
+Cargo[id: A31; content=Beans; weight=90], 
+Cargo[id: A22; content=Spice; weight=18], 
+Cargo[id: A15; content=Fruit; weight=60], 
+Cargo[id: A34; content=Pasta; weight=79], 
+Cargo[id: A51; content=Meat; weight=75], 
+Cargo[id: A11; content=Rice; weight=55], 
+Cargo[id: A91; content=Meat; weight=90], 
+Cargo[id: A41; content=Protein; weight=92], 
+Cargo[id: A35; content=Peas; weight=40]]
+

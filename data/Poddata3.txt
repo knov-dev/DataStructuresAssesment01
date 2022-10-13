@@ -1,0 +1,9 @@
+P11,155,Book			
+P51,175,Games
+P34,179,Clothes	           
+P15,160,Book
+P22,118,Book	           
+P31,290,Clothes 
+P56,185,Games   
+P39,164,Shoes
+P16,480,Gloves                     

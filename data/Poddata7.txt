@@ -1,0 +1,12 @@
+A11,55,Rice			
+A51,75,Meat
+A34,79,Pasta 	           
+A15,60,Fruit 
+A22,18,Spice	           
+A31,90,Beans  
+A56,85,Vegetables           
+A39,64,Porridge
+A16,80,Water	                      
+A35,40,Peas  
+A41,92,Protein	           
+A91,90,Meat  

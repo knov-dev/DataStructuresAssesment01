@@ -1,0 +1,12 @@
+F11,55,Rice			
+F51,75,Meat
+F34,79,Pasta 	           
+F15,60,Fruit 
+F22,18,Spice	           
+F31,90,Beans  
+F56,85,Vegetables           
+F39,64,Porridge
+F16,80,Water	                      
+F35,40,Peas  
+F41,92,Protein	           
+F91,90,Meat  

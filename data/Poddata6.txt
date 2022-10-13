@@ -1,0 +1,9 @@
+T17,155,Computer		
+T87,175,Tools
+T84,179,Circuit Board           
+T15,Tape
+T25,134,Glue           
+T37,290,Bolts
+T86,185,Lights
+T39,164,Speakers
+T97,480,Headphones            
